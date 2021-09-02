@@ -1,0 +1,8 @@
+Variables- forma de almacenar los datos y recuperarlos en el momento que se requiera es decir como una billetera donde guardan monedas, y se utilizan cunado las necesitan
+Strings- son bloques de texto, siempre tiene que ir en comillas es decir es lo que nos da el nombre que queremos traer, un ejemplo e el nombre de nuestro padre "Juan"
+Funciones (argumentos, return) - las funciones son como el cerebro de las personas ellas se encargan de enviar las acciones que queremos que haga cierta parte del cuerpo, 
+los argumentos son como los pensamientos es lo hace que generar una reacción, al colocar el código que necesitamos o pensamiento podemos traer una acción de regreso o un return
+Declaraciones if- es una opción lógica es decir es una acción o consecuencia un ejemplo es decir por ejemplo si arrojamos el vaso al piso se rompe, así mismo se manejan las declaraciones if
+o si, entonces el ejemplo es SI tiene más de 18 años puede entrar a la universidad.
+Valores booleanos (true, false) ' estos valores son como traer una consecuencia, de las declaraciones if entonces un ejemplo es que si arrojas un vaso al piso este se romperá, es una frase verdadera
+u otro ejemplo es si tomo un bus puedo llegar a Marte, esa es una frase falsa
